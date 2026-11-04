@@ -1,5 +1,4 @@
-
-#Buscar Pokemón#
+#Buscar Pokemón
 
 *Esta página ayuda a buscar pokemón con una api*
 [No lo abras](https://hola.com)
